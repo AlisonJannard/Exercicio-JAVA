@@ -1,2 +1,0 @@
-# Exercicio-JAVA
-Professora Rosângela
